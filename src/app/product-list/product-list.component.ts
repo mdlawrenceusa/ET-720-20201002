@@ -11,7 +11,7 @@ export class ProductListComponent {
   products = products;
 
   share() {
-    window.alert('The product has been shared!');
+    window.alert('This product has been shared with the BEST ET-720 BTECH CLASS EVER!');
   }
 }
 
